@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51d312fc35fbd6641b0e2bfa3634c743, type: 3}
+  m_Name: Flask_1
+  m_EditorClassIdentifier: 
+  saveSystemReference: Flask_1
+  itemName: Flask
+  itemIcon: {fileID: -125841259962605178, guid: 8a18d03cffade2040b29b84cd3c2e520,
+    type: 3}
+  itemDescription: A bottle of water for your supplies. It's convenient have something
+    to drink on the way.
+  itemPrice: 200
+  itemObtained: {fileID: -1302860089263513797, guid: e8e6ad4d1b4afc940a4f03d256878e9d,
+    type: 3}

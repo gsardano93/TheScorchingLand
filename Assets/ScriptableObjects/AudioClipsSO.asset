@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e35e1efd68864d041a7c0a484085fb93, type: 3}
+  m_Name: AudioClipsSO
+  m_EditorClassIdentifier: 
+  explosions:
+  - {fileID: 8300000, guid: effe6d71cfa2d4689a4262969473dd08, type: 3}
+  - {fileID: 8300000, guid: 39d95322e08d84fc88a217e689779f38, type: 3}
+  - {fileID: 8300000, guid: 5b1f83bbc554f4367aed82ebf7279fac, type: 3}
+  jumps:
+  - {fileID: 8300000, guid: 3907b9a66967648e0bd353f41fa2b1e5, type: 3}
+  - {fileID: 8300000, guid: 0121a659315624d7a96e98abd2d2a16d, type: 3}
+  - {fileID: 8300000, guid: 5708d77107cb74dd287928a1b3c2fd33, type: 3}
+  woshes:
+  - {fileID: 8300000, guid: c5098bc7b068245b0b8711f6fa803845, type: 3}
+  gunshots:
+  - {fileID: 8300000, guid: b31abebe929a6476a9fdc2ccaa86f89d, type: 3}
+  - {fileID: 8300000, guid: e75f6b054523348dfb3b28e2698ddb91, type: 3}
+  - {fileID: 8300000, guid: 17f00446e6dfe407b8daab80e8cb5b6c, type: 3}
+  reloads:
+  - {fileID: 8300000, guid: 0162af2cbedc04f9cbfe3dd44ced1567, type: 3}
+  - {fileID: 8300000, guid: 1b35591af43f44b60a8cabcc4d00866d, type: 3}
+  - {fileID: 8300000, guid: 02adada7fe61b40918f6d27febe82618, type: 3}
+  deaths:
+  - {fileID: 8300000, guid: 4f5bc64a69b9741b49c08897fbf40c67, type: 3}
+  - {fileID: 8300000, guid: 1dc177c9d0d8347d0b0a178593807e77, type: 3}
+  - {fileID: 8300000, guid: 766700b52c75d4cf3b4a053f311bdfbf, type: 3}
+  powerUps:
+  - {fileID: 8300000, guid: a0fbeb571ed114dc29e75de4226e56c5, type: 3}
+  - {fileID: 8300000, guid: 5662835f9ea8e46a6aced93a46e17a3b, type: 3}
+  - {fileID: 8300000, guid: 7cc7d37818ed341adae32e6fe9d640b5, type: 3}
+  slashes:
+  - {fileID: 8300000, guid: 3dc7d265f9c42437492a59228fc7b6d7, type: 3}

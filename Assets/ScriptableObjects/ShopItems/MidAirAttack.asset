@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51d312fc35fbd6641b0e2bfa3634c743, type: 3}
+  m_Name: MidAirAttack
+  m_EditorClassIdentifier: 
+  saveSystemReference: Taralli
+  itemName: Taralli
+  itemIcon: {fileID: -5395172569414051600, guid: 8a18d03cffade2040b29b84cd3c2e520,
+    type: 3}
+  itemDescription: "A crunchy bakery product with \r\nfennel seeds. Eat a pack of
+    these will allow you to attack in midair."
+  itemPrice: 135
+  itemObtained: {fileID: 2970940833129663918, guid: 543fa6dfff083634cafc769548cc21bf,
+    type: 3}

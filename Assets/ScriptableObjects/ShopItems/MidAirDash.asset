@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51d312fc35fbd6641b0e2bfa3634c743, type: 3}
+  m_Name: MidAirDash
+  m_EditorClassIdentifier: 
+  saveSystemReference: Gelato
+  itemName: Gelato
+  itemIcon: {fileID: 5362735838549604449, guid: 8a18d03cffade2040b29b84cd3c2e520,
+    type: 3}
+  itemDescription: A regular, refreshing ice cream against the heat. Eating this
+    before it melt, allow you to dash at midair
+  itemPrice: 200
+  itemObtained: {fileID: -7378936623060723595, guid: ad88aac111b6e274cb9cc0c6d8afb966,
+    type: 3}
